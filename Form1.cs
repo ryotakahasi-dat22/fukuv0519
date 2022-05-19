@@ -36,5 +36,10 @@ namespace fukuv0519
         {
             button4.BackColor = SystemColors.Control;
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            label1.Text = "高橋涼";
+        }
     }
 }
